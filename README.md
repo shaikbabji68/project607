@@ -30,16 +30,16 @@ This is a web based application developed for health related based website in in
 ![screenshort5](https://user-images.githubusercontent.com/115787485/203711055-588c6a51-eab6-4b3f-a078-1511da121138.png)
 ![screenshort4](https://user-images.githubusercontent.com/115787485/203709316-f1f75af1-231c-4ad2-813c-42180499877a.png)
 ### About Us -
-Exceptional Service!
+Exceptional Service!,
 Soft & Gentle
 ### Services -
-Fissure Sealants
-Cosmetic Dentistry
-Child's Dental Visit
-Complete Whitening
-Sedation Dentistrymi
-Air Flow Cleaning
-Dental Cleaning
+Fissure Sealants,
+Cosmetic Dentistry,
+Child's Dental Visit,
+Complete Whitening,,
+Sedation Dentistrymi,
+Air Flow Cleaning,
+Dental Cleaning,
 Aligning the Teeth
 ### Contact us -
 +44 123 984 439
