@@ -1,6 +1,6 @@
 
 
-# ✨  Dentition-Starter ✨
+# ✨  Dentition ✨
 
 This is a web based application developed for health related based website in india
 
@@ -28,23 +28,22 @@ This is a web based application developed for health related based website in in
 ![screenshort1](https://user-images.githubusercontent.com/115787485/203600648-3921e2fd-216f-41b4-a311-2939b2a5f7e4.png)
 ![Screenshot (1)](https://user-images.githubusercontent.com/115787485/203600765-15f9ceb3-14ce-45da-915e-e6ce18c278de.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/115787485/203600684-f8166795-94e0-4194-9823-7fa05ab712d1.png)
-
+![screenshort4](https://user-images.githubusercontent.com/115787485/203709316-f1f75af1-231c-4ad2-813c-42180499877a.png)
 ### About Us -
-
-
-
+Exceptional Service!
+Soft & Gentle
 ### Services -
-
-
-
+Fissure Sealants
+Cosmetic Dentistry
+Child's Dental Visit
+Complete Whitening
+Sedation Dentistrymi
+Air Flow Cleaning
+Dental Cleaning
+Aligning the Teeth
 ### Contact us -
-
-
-
-### health bot
-
-
-
++44 123 984 439
+### dentitionhealthbot
 
 ## Tech Stack 💻
 
