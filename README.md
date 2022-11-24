@@ -37,7 +37,7 @@ Fissure Sealants,
 Cosmetic Dentistry,
 Child's Dental Visit,
 Complete Whitening,,
-Sedation Dentistrymi,
+Sedation Dentistry,
 Air Flow Cleaning,
 Dental Cleaning,
 Aligning the Teeth
