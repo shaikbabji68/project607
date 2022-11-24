@@ -26,8 +26,8 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 ![screenshort1](https://user-images.githubusercontent.com/115787485/203600648-3921e2fd-216f-41b4-a311-2939b2a5f7e4.png)
-![Screenshot (1)](https://user-images.githubusercontent.com/115787485/203600765-15f9ceb3-14ce-45da-915e-e6ce18c278de.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/115787485/203600684-f8166795-94e0-4194-9823-7fa05ab712d1.png)
+![screenshort6](https://user-images.githubusercontent.com/115787485/203711021-e3b73c2b-4108-4f63-bf60-fc2dda10525b.png)
+![screenshort5](https://user-images.githubusercontent.com/115787485/203711055-588c6a51-eab6-4b3f-a078-1511da121138.png)
 ![screenshort4](https://user-images.githubusercontent.com/115787485/203709316-f1f75af1-231c-4ad2-813c-42180499877a.png)
 ### About Us -
 Exceptional Service!
