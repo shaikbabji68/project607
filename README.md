@@ -8,7 +8,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://polite-smoke-0248cbb00.2.azurestaticapps.net/
-**project demo video link** - https://www.youtube.com/watch?v=sHsqmKBN-Io
+**project demo video link** -
 
 ## Azure technologies used for Project
 
